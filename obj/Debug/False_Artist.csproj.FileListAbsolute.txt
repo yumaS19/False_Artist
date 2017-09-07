@@ -1,0 +1,15 @@
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\False_Artist.exe.config
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\obj\Debug\False_Artist.csprojResolveAssemblyReference.cache
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\obj\Debug\False_Artist.main.resources
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\obj\Debug\False_Artist.start.resources
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\obj\Debug\False_Artist.Properties.Resources.resources
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\obj\Debug\False_Artist.csproj.GenerateResource.Cache
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\False_Artist.exe
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\False_Artist.pdb
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\YamlDotNet.dll
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\YamlDotNet.xml
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\obj\Debug\False_Artist.exe
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\obj\Debug\False_Artist.pdb
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\CsvHelper.dll
+C:\Users\toyu-\Documents\Visual Studio 2015\Projects\False_Artist\False_Artist\bin\Debug\CsvHelper.xml
